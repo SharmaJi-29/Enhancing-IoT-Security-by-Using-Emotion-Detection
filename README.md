@@ -49,13 +49,14 @@ This project is suitable for:
 ---
 
 ## 📂 Project Structure
-
+```bash
 IoT-Security/
 │
 ├── Gui_main.py
 ├── haarcascade_frontalface_default.xml
 ├── DeepFace_Emotions.ipynb
 ├── README.md
+```
 
 ### 📄 File Description
 
@@ -95,16 +96,20 @@ pip install opencv-python
 pip install deepface
 pip install numpy
 pip install matplotlib
+```
 ⚠️ TensorFlow/PyTorch will be installed automatically with DeepFace.
 
 ## ▶️ How to Run
 
 ### ▶️ Run GUI Application
+```bash
 python Gui_main.py
+```
 
 ### ▶️ Run Emotion Notebook
+```bash
 jupyter notebook DeepFace_Emotions.ipynb
-
+```
 
 ## 😊 Supported Emotions
 
