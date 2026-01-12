@@ -42,10 +42,10 @@ def is_after_6_pm():
     return datetime.datetime.now().hour >= 18
 
 # Twilio Configuration
-account_sid = 'ACbf8844951d274b74235a800fdfe4019f'
-auth_token = 'd30ab7ccd5ac2d72459016b5fac6a74a'
-twilio_number = '+17402456119'  
-recipient_number = '+919098218859'  
+account_sid = 'Your Account SID'
+auth_token = 'Your Account Authentication Token'
+twilio_number = 'Your Twillo Number'  
+recipient_number = 'Personal Mobile Number'  
 
 client = Client(account_sid, auth_token)
 
