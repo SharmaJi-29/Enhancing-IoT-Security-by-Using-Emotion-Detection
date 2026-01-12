@@ -10,7 +10,7 @@ This project is ideal for smart homes, campuses, offices, and IoT-based security
 
 ## 🎯 Objectives
 
-	•	🔍 Detect human faces in real-time
+•	🔍 Detect human faces in real-time
 	•	🧠 Recognize facial emotions using deep learning
 	•	🔐 Enhance IoT security with behavioral awareness
 	•	🖥️ Provide a GUI-based monitoring system
